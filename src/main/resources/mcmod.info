@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "chrisstweak",
+    "name": "0.0.1",
+    "description": "This is a small Tweak mod, named after my self!",
+    "version": "Chriss-Tweak",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authors": ["chriss199815"],
+    "credits": "Thanks to all you out there.",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
