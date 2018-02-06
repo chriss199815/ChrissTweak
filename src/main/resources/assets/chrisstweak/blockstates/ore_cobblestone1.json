@@ -2,7 +2,7 @@
   "forge_marker": 1,
   "defaults": {
     "textures": {
-      "all": "chrisstweak:blocks/comp_cobblestone"
+      "all": "chrisstweak:blocks/ore_cobblestone1"
     }
   },
   "variants": {

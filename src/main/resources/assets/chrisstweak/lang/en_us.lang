@@ -1,0 +1,16 @@
+#Blocks
+tile.ore_copper.name=Copper Ore
+tile.ore_cobblestone1.name=Compressed Cobblestone
+tile.ore_cobblestone2.name=Double Compressed Cobblestone
+tile.ore_cobblestone3.name=Triple Compressed Cobblestone
+tile.ore_cobblestone4.name=Quadruple Compressed Cobblestone
+tile.ore_cobblestone5.name=Quintuple Compressed Cobblestone
+tile.ore_cobblestone6.name=Sextuple Compressed Cobblestone
+tile.ore_cobblestone7.name=Septuple Compressed Cobblestone
+tile.ore_cobblestone8.name=Octuple Compressed Cobblestone
+
+
+
+#Items
+
+#Misc
